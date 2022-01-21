@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Payoneer Interview</string>
+    <string name="fetching_data">Fetching Payment Info..</string>
+    <string name="select_paymet_method">Select Payment Method</string>
+    <string name="find">Find</string>
+    <string name="code">code</string>
+    <string name="enter_code_error">Kindly enter payment code. Then Retry.</string>
+    <string name="request_failed">Oops.. Something went wrong.</string>
+    <string name="list_not_availabe">Something went wrong, kindly retry.</string>
+    <string name="not_records_found">No recond that match the provided code found.</string>
+    <string name="amount_label">Total Amount</string>
+</resources>
